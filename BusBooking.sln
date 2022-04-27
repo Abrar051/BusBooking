@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusBooking", "BusBooking\BusBooking.csproj", "{8C0458A2-6F10-4D8D-9F7D-2FC6E1A53736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{834536C7-0D53-4F2D-B231-44970F7EC814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C0458A2-6F10-4D8D-9F7D-2FC6E1A53736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0458A2-6F10-4D8D-9F7D-2FC6E1A53736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0458A2-6F10-4D8D-9F7D-2FC6E1A53736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0458A2-6F10-4D8D-9F7D-2FC6E1A53736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{834536C7-0D53-4F2D-B231-44970F7EC814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834536C7-0D53-4F2D-B231-44970F7EC814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834536C7-0D53-4F2D-B231-44970F7EC814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834536C7-0D53-4F2D-B231-44970F7EC814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F584D483-708B-4D60-BF15-E416F036EBBF}
+	EndGlobalSection
+EndGlobal
